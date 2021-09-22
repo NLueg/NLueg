@@ -13,6 +13,6 @@ I mainly use Node.JS for my backend-systems but I also speak some Java :coffee:
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/NLueg/NLueg/edit/main/README.md)
 
-<img align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nlueg&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nlueg&layout=compact" />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=nlueg&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=nlueg&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
