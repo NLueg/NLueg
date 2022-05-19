@@ -1,6 +1,6 @@
 ### Hi there, my name is Nico 👋
 
-I am 24 years old and employed as an Software Engineer.
+I am 25 years old and employed as an Software Engineer.
 I am very into everything that's web-related like Angular, TypeScript and JavaScript. 
 I mainly use Node.JS for my backend-systems but I also speak some Java :coffee:
 
