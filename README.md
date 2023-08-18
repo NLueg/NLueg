@@ -1,6 +1,6 @@
 ### Hi there, my name is Nico 👋
 
-I am 25 years old and employed as an Software Engineer.
+I am 26 years old and employed as an Software Engineer.
 I am very into everything that's web-related like Angular, TypeScript and JavaScript. 
 I mainly use Node.JS for my backend-systems but I also speak some Java :coffee:
 
@@ -10,8 +10,6 @@ I mainly use Node.JS for my backend-systems but I also speak some Java :coffee:
 - 📫 How to reach me: [XING](https://www.xing.com/profile/Nico_Lueg3/cv) & [LinkedIn](https://www.linkedin.com/in/nico-lueg-92907aa3/)
 
 #### Some Statistics
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/NLueg/NLueg/edit/main/README.md)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nlueg&layout=compact" />
 
