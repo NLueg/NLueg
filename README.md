@@ -1,8 +1,8 @@
 ### Hi there, my name is Nico 👋
 
-I am 26 years old and employed as an Software Engineer.
-I am very into everything that's web-related like Angular, TypeScript and JavaScript. 
-I mainly use Node.JS for my backend-systems but I also speak some Java :coffee:
+... and I am a passionate Full-Stack Developer.
+I am into everything that's web-related like Angular, TypeScript and JavaScript. 
+I mainly use Node.JS for my backend-systems but I also speak some Java and Kotlin :coffee:
 
 - 🔭 I’m currently working on my app made with Ionic & Angular - [Pantrist](https://pantrist.com)
 - 🌱 I’m currently learning some React to get some broader experience in frontend development. 
