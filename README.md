@@ -6,11 +6,13 @@ I mainly use Node.JS for my backend-systems but I also speak some Java and Kotli
 
 - 🔭 I’m currently working on my app made with Ionic & Angular - [Pantrist](https://pantrist.com)
 - 🌱 I’m currently learning some React to get some broader experience in frontend development. 
-- 👯 I’m always open to collaborate on cool Open Source projects. Currently I mainly collaborate on projects that are related to Ionic & Capacitor.
+- 👯 I’m always open to collaborate on cool Open Source projects. Currently, I mainly collaborate on projects that are related to Ionic & Capacitor.
 - 📫 How to reach me: [XING](https://www.xing.com/profile/Nico_Lueg3/cv) & [LinkedIn](https://www.linkedin.com/in/nico-lueg-92907aa3/)
 
 #### Some Statistics
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nlueg&layout=compact" />
+<img src="https://github-readme-stats.nicolueg.com/top-langs/?username=nlueg&layout=compact&theme=dark" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=nlueg&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<br/>
+
+<img src="https://github-readme-stats.nicolueg.com/?username=nlueg&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark" />
