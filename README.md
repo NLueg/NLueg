@@ -4,6 +4,8 @@ I build web and mobile apps with Angular, Ionic and NestJS, run them on my own K
 
 [nicolueg.com](https://nicolueg.com) · [LinkedIn](https://www.linkedin.com/in/nico-lueg-92907aa3/) · [kubernanny.app](https://kubernanny.app) · [pantrist.com](https://www.pantrist.com)
 
+Like my work? [Sponsor me on GitHub](https://github.com/sponsors/NLueg) or [buy me a coffee on Ko-fi](https://ko-fi.com/nicolueg).
+
 - <img src="./assets/kubernanny.png" alt="" width="18" height="18" /> **[Kubernanny](https://github.com/kubernanny/kubernanny)**: open-source health checks for self-hosted Kubernetes, as an app for iOS, Android and web
 - <img src="./assets/pantrist.png" alt="" width="18" height="18" /> **[Pantrist](https://github.com/Pantrist-dev)**: pantry, shopping list and meal planning app with AI features and an [MCP server](https://github.com/Pantrist-dev/pantrist-mcp) for Claude
 - 🤖 **RKE2 cluster**: three self-hosted nodes run all of the above, deployed with Argo CD, Helm and OpenTofu
